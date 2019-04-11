@@ -146,7 +146,7 @@ _**Do not change or delete any files outside of the `homework` folder!**_
    | `createAndAppend` | A utility function for easily creating and appending HTML elements.                                          |
    | `main`            | Contains the start-up code for the application.                                                              |
 
-   `index.js` also contains a constant with the URL for the HYF repositories as listed in section 2.2.1:
+   `index.js` also contains a constant with the URL for the HYF repositories as listed in section 1.2.1:
 
    ```js
    const HYF_REPOS_URL = 'https://api.github.com/orgs/HackYourFuture/repos?per_page=100';
